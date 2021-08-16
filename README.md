@@ -1,5 +1,58 @@
-# FCC Test Suite Templates
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# Microverse project
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> this is my first microverse project
+
+![screenshot](./hellomicroverse.JPG)
+
+Additional description about the project and its features.
+
+## Built With
+
+- Major languages
+- html
+- css
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+
+```
+first clone my repository by using this link:https://github.com/Mucyosoda/Hello-Microverse.git
+cd Hello-Microverse
+Open Vs code then click on Go Live then you will be able to see the code live
+```
+
+## Prerequisites
+
+- Text editor
+- Git
+- Html
+- Css
+
+## Authors
+
+👤 **Claude Mucyo Ntacyonungutse**
+
+- GitHub: [@githubhandle](https://github.com/Mucyosoda)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
