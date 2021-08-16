@@ -4,7 +4,7 @@
 
 > this is my first microverse project
 
-![screenshot](./hellomicroverse.JPG)
+![screenshot](./screenshot.JPG)
 
 Additional description about the project and its features.
 
@@ -13,13 +13,14 @@ Additional description about the project and its features.
 - Major languages
 - html
 - css
+- javascript
 
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 
 ```
-first clone my repository by using this link:https://github.com/Mucyosoda/Hello-Microverse.git
+first clone my repository by using this link:https://github.com/Mucyosoda/claude-taibu/tree/admissionTrial
 cd Hello-Microverse
 Open Vs code then click on Go Live then you will be able to see the code live
 ```
@@ -30,6 +31,7 @@ Open Vs code then click on Go Live then you will be able to see the code live
 - Git
 - Html
 - Css
+- javascript
 
 ## Authors
 
